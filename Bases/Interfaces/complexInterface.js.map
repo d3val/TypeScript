@@ -1,0 +1,1 @@
+{"version":3,"file":"complexInterface.js","sourceRoot":"","sources":["complexInterface.ts"],"names":[],"mappings":"AAAA,CAAC,GAAG,EAAE;IAaJ,MAAM,MAAM,GAAW;QACrB,IAAI,EAAE,MAAM;QACZ,GAAG,EAAE,EAAE;QACP,OAAO,EAAE;YACP,EAAE,EAAE,EAAE;YACN,GAAG,EAAE,KAAK;YACV,IAAI,EAAE,MAAM;SACb;KACF,CAAC;AACJ,CAAC,CAAC,EAAE,CAAC"}

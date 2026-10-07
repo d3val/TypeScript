@@ -1,0 +1,1 @@
+{"version":3,"file":"desestructuracion.js","sourceRoot":"","sources":["desestructuracion.ts"],"names":[],"mappings":"AAAA,CAAC,GAAG,EAAE;IACJ,MAAM,WAAW,GAAG,CAAC,cAAc,EAAE,SAAS,EAAE,MAAM,CAAC,CAAC;IAExD,MAAM,CAAC,GAAG,EAAE,OAAO,CAAC,GAAG,WAAW,CAAC;IAEnC,OAAO,CAAC,GAAG,CAAC,EAAC,OAAO,EAAC,GAAG,EAAC,CAAC,CAAC;AAE7B,CAAC,CAAC,EAAE,CAAC"}
